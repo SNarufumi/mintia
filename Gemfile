@@ -54,6 +54,7 @@ gem 'therubyracer'
 gem 'less-rails'
 gem 'twitter-bootstrap-rails'
 gem 'acts-as-taggable-on'
+gem 'devise'
 
 
 
